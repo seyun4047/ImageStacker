@@ -7,6 +7,7 @@
 
 ## Major Update
 29.01.24 added stakingImg.py
+<img width="1605" alt="스크린샷 2024-01-29 17 21 56" src="https://github.com/seyun4047/ImageStacker/assets/73819780/4ac5e390-d988-48ce-81f1-0ff97d81d900">
 - cal each pix's avg
 
 ---------------------
